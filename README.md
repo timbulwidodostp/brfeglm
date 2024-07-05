@@ -5,6 +5,8 @@ Bias reduced fixed effect generalized linear Model estimator Use brfeglm With ST
 
 Biased-reduced fixed effect glm regression for nonlinear models Use brfeglm With STATA 18
 
+https://www.youtube.com/watch?v=xj_rzMj_Vok
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
